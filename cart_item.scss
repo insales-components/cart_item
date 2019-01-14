@@ -11,3 +11,19 @@
   text-decoration: none;
   color: inherit;
 }
+
+.item-variant {
+  font-size: 0.8em;
+}
+
+.item-title {
+  margin-bottom: 0.5em;
+}
+
+.cart-item + .cart-item {
+  border-top: 1px solid #ccc;
+}
+
+.cart-item {
+  padding: 1em 0;
+}
